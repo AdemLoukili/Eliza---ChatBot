@@ -197,4 +197,4 @@ pytest --cov=app tests/
 
 ## 📄 Licence
 
-Projet développé Par Adem Loukili et Tom Salé
+Projet développé Par Adem Loukili
